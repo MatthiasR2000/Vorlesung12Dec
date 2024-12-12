@@ -4,10 +4,6 @@
 
 using namespace std;
 
-// Definition des Enums Wochentag
-
-
-void printCat(Cat cat);
 int main() {
     const int length = 2;
     Cat cat2;
